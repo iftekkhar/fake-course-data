@@ -1,0 +1,168 @@
+{
+  "courses": [
+    {
+      "courseType": "v2.ondemand",
+      "id": "NJSdGN71Eeq4CApSN3OTvQ",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "Make Your Pick-Ups Look Cool in Unity (Intro to Animation 1)"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "69Bku0KoEeWZtA4u62x6lQ",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "title": "Gamification"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "0HiU7Oe4EeWTAQ4yevf_oQ",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "title": "Dealing With Missing Data"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "sI_-QEBiEemtDRLx7Ne8jg",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "title": "Unordered Data Structures"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "5zjIsJq-EeW_wArffOXkOw",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "Vital Signs: Understanding What the Body Is Telling Us"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "WFanvtoSEeedbRLwgi9a7A",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "FinTech Disruptive Innovation: Implications for Society"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "v9CQdBkhEeWjrA6seF25aw",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+      "title": "Modern Art & Ideas"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "i9sAgHJaEeqScBK87oSN6Q",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "Building Batch Data Pipelines on GCP auf Deutsch"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "QgmoVdT2EeSlhSIACx2EBw",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "The Evolving Universe"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "zRhFMLBVEeqP6QqV6TddSw",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "Use SurveyMonkey to Create a Survey and Analyze Results"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "LuXbfNnCEeq3nQoreMGNOQ",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "Performing Data Aggregation using SQL Aggregate Functions"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "vwcoxOyuEeWLaBLI8fdMlw",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "The Changing Global Order"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "GHxiT9MGEemYpxKNJIfVmA",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "Getting Started with AWS Machine Learning"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "FlptMGk3EeSiViIACw8GlA",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "Design: Creation of Artifacts in Society"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "XMxjf_oBEeiF1wo-ULzPcg",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": " Fundamentals of the Chinese character writing. Part 2"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "3uRPpdGFEeiElA6q2-9yxA",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "Researcher Management and Leadership Training"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "j-zL7CvgEemV_A4t3mTtWg",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "Introduction to Enterprise Computing"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "xLCmSmnwEeqibApethH5FQ",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "Fighting COVID-19 with Epidemiology: A Johns Hopkins Teach-Out"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "rAlpSmWgEeenbhIEmtW1dA",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "Modern Robotics, Course 1:  Foundations of Robot Motion"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "5uXCfFu2EeSU0SIACxCMgg",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "Bioinformatic Methods I"
+    },
+    {
+      "courseType": "v2.ondemand",
+      "id": "hwvdsk86Eem0lhKc4vCNig",
+      "img": "https://picsum.photos/id/0/5616/3744",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+
+      "title": "Social Network Analysis"
+    }
+  ]
+}
