@@ -5,49 +5,55 @@
       "id": "NJSdGN71Eeq4CApSN3OTvQ",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
-
-      "title": "Make Your Pick-Ups Look Cool in Unity (Intro to Animation 1)"
+      "price": "160",
+      "title": "Intro to Animation 1"
     },
     {
       "courseType": "v2.ondemand",
       "id": "69Bku0KoEeWZtA4u62x6lQ",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
+      "price": "270",
       "title": "Gamification"
     },
     {
       "courseType": "v2.ondemand",
       "id": "0HiU7Oe4EeWTAQ4yevf_oQ",
       "img": "https://picsum.photos/id/0/5616/3744",
+      "price": "330",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
       "title": "Dealing With Missing Data"
     },
     {
       "courseType": "v2.ondemand",
       "id": "sI_-QEBiEemtDRLx7Ne8jg",
+      "price": "490",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
-      "title": "Unordered Data Structures"
+      "title": "Data Structures"
     },
     {
       "courseType": "v2.ondemand",
       "id": "5zjIsJq-EeW_wArffOXkOw",
+      "price": "550",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
-      "title": "Vital Signs: Understanding What the Body Is Telling Us"
+      "title": "Vital Signs"
     },
     {
       "courseType": "v2.ondemand",
       "id": "WFanvtoSEeedbRLwgi9a7A",
+      "price": "690",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
-      "title": "FinTech Disruptive Innovation: Implications for Society"
+      "title": "Implications for Society"
     },
     {
       "courseType": "v2.ondemand",
       "id": "v9CQdBkhEeWjrA6seF25aw",
+      "price": "790",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
       "title": "Modern Art & Ideas"
@@ -55,14 +61,16 @@
     {
       "courseType": "v2.ondemand",
       "id": "i9sAgHJaEeqScBK87oSN6Q",
+      "price": "830",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
-      "title": "Building Batch Data Pipelines on GCP auf Deutsch"
+      "title": "Building Data Pipelines"
     },
     {
       "courseType": "v2.ondemand",
       "id": "QgmoVdT2EeSlhSIACx2EBw",
+      "price": "690",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
@@ -71,58 +79,65 @@
     {
       "courseType": "v2.ondemand",
       "id": "zRhFMLBVEeqP6QqV6TddSw",
+      "price": "180",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
-      "title": "Use SurveyMonkey to Create a Survey and Analyze Results"
+      "title": "Java Script"
     },
     {
       "courseType": "v2.ondemand",
       "id": "LuXbfNnCEeq3nQoreMGNOQ",
+      "price": "650",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
-      "title": "Performing Data Aggregation using SQL Aggregate Functions"
+      "title": "Type Script"
     },
     {
       "courseType": "v2.ondemand",
       "id": "vwcoxOyuEeWLaBLI8fdMlw",
+      "price": "550",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
-      "title": "The Changing Global Order"
+      "title": "HTML- CSS"
     },
     {
       "courseType": "v2.ondemand",
       "id": "GHxiT9MGEemYpxKNJIfVmA",
+      "price": "750",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
-      "title": "Getting Started with AWS Machine Learning"
+      "title": "Photoshop"
     },
     {
       "courseType": "v2.ondemand",
       "id": "FlptMGk3EeSiViIACw8GlA",
+      "price": "580",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
-      "title": "Design: Creation of Artifacts in Society"
+      "title": "Illustrator"
     },
     {
       "courseType": "v2.ondemand",
       "id": "XMxjf_oBEeiF1wo-ULzPcg",
+      "price": "520",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
-      "title": " Fundamentals of the Chinese character writing. Part 2"
+      "title": "Game Development"
     },
     {
       "courseType": "v2.ondemand",
       "id": "3uRPpdGFEeiElA6q2-9yxA",
+      "price": "350",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
-      "title": "Researcher Management and Leadership Training"
+      "title": "Vehicle Dynamics"
     },
     {
       "courseType": "v2.ondemand",
@@ -130,27 +145,30 @@
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
-      "title": "Introduction to Enterprise Computing"
+      "title": "Enterprise Computing"
     },
     {
       "courseType": "v2.ondemand",
       "id": "xLCmSmnwEeqibApethH5FQ",
+      "price": "250",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
-      "title": "Fighting COVID-19 with Epidemiology: A Johns Hopkins Teach-Out"
+      "title": "Fighting COVID-19"
     },
     {
       "courseType": "v2.ondemand",
       "id": "rAlpSmWgEeenbhIEmtW1dA",
+      "price": "150",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
-      "title": "Modern Robotics, Course 1:  Foundations of Robot Motion"
+      "title": "Modern Robotics"
     },
     {
       "courseType": "v2.ondemand",
       "id": "5uXCfFu2EeSU0SIACxCMgg",
+      "price": "950",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
@@ -159,6 +177,7 @@
     {
       "courseType": "v2.ondemand",
       "id": "hwvdsk86Eem0lhKc4vCNig",
+      "price": "450",
       "img": "https://picsum.photos/id/0/5616/3744",
       "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. ",
 
